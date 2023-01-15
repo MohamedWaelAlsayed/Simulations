@@ -7,6 +7,7 @@ This code is a simulation of an inventory system. It takes in a list of leads, t
 The code then runs through the simulation for the given number of cycles and calculates the average end of inventory as well as the number of shortage times out of the total days.
 
 Time complexity: O(n)
+
 Space complexity: O(1)
 
 libraries: numpy
