@@ -15,6 +15,8 @@ time complexity: O(n)
 
 The space complexity: O(1)
 
-Libraries : sympy
+## Libraries
+
+ sympy
 
 This code was a task in Simulations course (Semster 7 Fall 2022) in Faculty of computers and data science, Alexandria University
