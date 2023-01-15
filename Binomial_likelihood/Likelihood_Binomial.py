@@ -9,7 +9,7 @@ number_of_trials = int(input('Enter number of trials: '))
 
 # define notations
 x, n, p = symbols('x n p', real=True)
-# define the function
+# define the Binomial probability mass function
 func = (factorial(n) / (factorial((n-x)) * factorial(x))) * (p**x) * (1-p)**(n-x)
 # take ln for both sides
 ln_func = sympy.log(func, math.e)
